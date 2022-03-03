@@ -12,6 +12,6 @@ fun main() {
     println((1..n).random())
 
     }
-//123
+//123456
 class Nine {
 }
